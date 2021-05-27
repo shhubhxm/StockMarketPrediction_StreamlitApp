@@ -14,5 +14,4 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 tensorflow==2.5.0
 tensorflow-estimator==2.5.0
-numpy==1.20.3
-pandas==1.2.4
+
