@@ -9,8 +9,8 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 import plotly.graph_objects as go
-import matplotlib.pyplot as plt
-plt.style.use('fivethirtyeight')
+#import matplotlib.pyplot as plt
+#plt.style.use('fivethirtyeight')
 
 
 st.title('Stock Forecast App')
