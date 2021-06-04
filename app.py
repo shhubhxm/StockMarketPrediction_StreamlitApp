@@ -19,7 +19,7 @@ stocks = ("RELIANCE.NS", "BHARTIARTL.NS", "ICICIBANK.NS", "TATASTEEL.NS")
 selected_stock = st.selectbox("Select Stocks for prediction", stocks)
 
 
-@st.cache
+
 def load_data(ticker):
     data = yf.download(ticker)
     data.reset_index(inplace=True)
