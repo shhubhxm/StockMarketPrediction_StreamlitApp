@@ -9,3 +9,4 @@ Model used : LSTM (Long short-term memory)
 
 ##
 - The Model Repo: [here](https://github.com/shhubhxm/stockmarket-prediction)
+<span style="display:block;text-align:center">![](images/qrcode.png)</span>
